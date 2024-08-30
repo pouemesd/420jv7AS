@@ -6,10 +6,10 @@ Ce répositoire continent la hiérarchie classe et le code pour le projet de ses
 
 # Hiérarchie de classe
 
+![image](https://github.com/user-attachments/assets/868d5ee3-98cd-4600-afaf-b296dcad9836)
+
 
 - classe a: Kart
-  ![image](https://github.com/user-attachments/assets/868d5ee3-98cd-4600-afaf-b296dcad9836)
-
 
 | Attribut | Fonctions |
 |---------:|-----------|
