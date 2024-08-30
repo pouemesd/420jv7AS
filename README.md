@@ -1,15 +1,19 @@
-**Document de démonstration pour la classe 420jv7AS**
+**Projet de session pour le cours 420jv7AS**
 
-*Démonstration italique*
+Ce répositoire continent la hiérarchie classe et le code pour le projet de session basé sur Unity3d et c#. 
 
-# Niveau 1
+*Auteurs*: @sdpoueme
 
-## Niveau 1.1
-
-### Niveau 1.3
+# Hiérarchie de classe
 
 - classe a: Kart 
 - classe b: Track
 - classe c: Mode
+
+
+# Manuel d'utilisation
+
+# Tests
+
 
 
