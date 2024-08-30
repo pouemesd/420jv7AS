@@ -6,8 +6,24 @@ Ce répositoire continent la hiérarchie classe et le code pour le projet de ses
 
 # Hiérarchie de classe
 
-- classe a: Kart 
+
+- classe a: Kart
+
+| Attribut | Fonctions |
+|---------:|-----------|
+| Name | public getName(), public setName() |
+| Speed | private setSpeed(), public getSpeed() |
+| HasTurbo | private isTurboEnabled() |
+
+
 - classe b: Track
+  
+| Attribut | Fonctions |
+|---------:|-----------|
+| Name | public getName(), public setName() |
+| Type | private setTrackType() |
+| Obstacles | private addObstacles () |
+
 - classe c: Mode
 
 
