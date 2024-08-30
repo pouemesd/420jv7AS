@@ -8,6 +8,8 @@ Ce répositoire continent la hiérarchie classe et le code pour le projet de ses
 
 ![image](https://github.com/user-attachments/assets/868d5ee3-98cd-4600-afaf-b296dcad9836)
 
+![image2](code.png)
+
 
 - classe a: Kart
 
