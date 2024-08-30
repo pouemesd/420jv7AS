@@ -10,6 +10,9 @@ Ce répositoire continent la hiérarchie classe et le code pour le projet de ses
 
 ![image2](code.png)
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 
 - classe a: Kart
 
