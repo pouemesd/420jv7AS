@@ -15,6 +15,19 @@ Ce répositoire continent la hiérarchie classe et le code pour le projet de ses
 | Speed | private setSpeed(), public getSpeed() |
 | HasTurbo | private isTurboEnabled() |
 
+```c#
+   public class Kart
+   {
+     public string Name { get; set }
+
+     public void Display()
+     {
+        //TODO: add the details of the function
+     }
+   }
+
+```
+
 
 - classe b: Track
   
