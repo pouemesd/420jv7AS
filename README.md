@@ -10,8 +10,8 @@ Ce répositoire continent la hiérarchie classe et le code pour le projet de ses
 
 ![image2](code.png)
 
-> [!NOTE]
-> Ce cours contient des objets provenant de [supertuxkart](supertuxkart.org).
+> [!WARNING]
+> Ce cours contient des objets provenant de [supertuxkart](https://supertuxkart.org).
 
 
 - classe a: Kart
